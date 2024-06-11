@@ -5,9 +5,6 @@ This project is a blog page that allows users to submit and view blog content. I
 
 ## How to View the Project
 
-### Online
-You can view the project hosted on GitHub Pages at: [https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/](https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/)
-
 ### Locally
 To view the project locally, follow these steps:
 
